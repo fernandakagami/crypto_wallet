@@ -43,6 +43,8 @@ gem "tzinfo-data"
 gem "bootsnap", require: false
 
 gem 'rails-i18n', '~> 7.0.0'
+gem 'jquery-rails'
+gem 'bootstrap', '~> 5.2.2'
 
 # Use Sass to process CSS
 gem "sassc-rails"

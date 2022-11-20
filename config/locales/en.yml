@@ -31,9 +31,24 @@
 
 en:
   actual_locale: "english"
-  hello: "Hello world"
+  welcome: "Welcome"
+  messages:
+    welcome: "This is a Crypo Wallet, an app to register your cripto coins."  
+    menu: "To start, select one option below."
+    confirm: "Are you sure?"
   links:
-    edit: "Editr"
+    edit: "Edit"
     show: "Show"
     delete: "Delete"
+    new: "New"
+    back: "Return"
+  new:
+    coin: "New Coin"
+    mining_type: "New Mining Type"
+  editing:
+    coin: "Edit Coin"
+    mining_type: "Edit Mining Type"    
+  showing:
+    coin: "Show Coin"
+    mining_type: "Show Mining Type"
 
