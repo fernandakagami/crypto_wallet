@@ -14,7 +14,7 @@ This an app to register cripto coins.
 
 ## 💻 Project
 
-<a href="https://digidiga.vercel.app/">Link to the project</a><br>
+This is a Crypo Wallet, um app to register cripto coins.
 
 ## :memo: License
 
