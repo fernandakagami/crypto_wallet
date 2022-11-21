@@ -14,7 +14,7 @@ This an app to register cripto coins.
 
 ## 💻 Project
 
-This is a Crypo Wallet, um app to register cripto coins.
+This is a Crypo Wallet, an app to register cripto coins.
 
 ## :memo: License
 
