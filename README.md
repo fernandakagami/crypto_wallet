@@ -1,24 +1,27 @@
-# README
+<h1 align="center"> Crypto_Wallet </h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p align="center">
+This an app to register cripto coins.
+</p>
 
-Things you may want to cover:
+<br>
 
-* Ruby version
+## 🚀 Technology
 
-* System dependencies
+- Ruby on Rails 
+- Bootstrap 5
+- SQLite
 
-* Configuration
+## 💻 Project
 
-* Database creation
+<a href="https://digidiga.vercel.app/">Link to the project</a><br>
 
-* Database initialization
+## :memo: License
 
-* How to run the test suite
+This project has a MID license.
 
-* Services (job queues, cache servers, search engines, etc.)
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 
-* Deployment instructions
 
-* ...
+---
+
